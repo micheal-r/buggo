@@ -1,0 +1,21 @@
+{
+    "emojis": {
+      "rtt": "<:name:id>",
+      "api": "<:name:id>",
+      "js": "<:name:id>",
+      "command": "<:name:id>",
+      "time": "<:name:id>",
+      "user": "<:name:id>",
+      "channel": "<:name:id>"
+    },
+    "embedColor": "#FFFF",
+    "enabled": {
+      "error": true,
+      "debug": true,
+      "js": true
+    },
+    "paths": {
+      "errorfolder": "../../../data/errors",
+      "prefixcommands": "../../../src/commands/prefix"
+    }
+  }
